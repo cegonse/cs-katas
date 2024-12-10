@@ -2,7 +2,7 @@
 
 namespace test;
 
-public class Tests
+public class MarsRoverTests
 {
     [Test]
     public void TestRoverKnowsItsLandingZone()
